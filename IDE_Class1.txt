@@ -1,0 +1,127 @@
+
+Selenium IDE installation:-->
+
+	=> Open Chrome browser
+	=> Open Selenium offical website  https://www.selenium.dev/downloads/
+	=> Under Selenium IDE click on "Chrome" link
+	=> At Chrome Extension page click on "AddtoChrome" button
+	=> At dialog box click on AddExtension Button [This action complete installation]
+	=> Open Browser extensions and pin the plugin to see at browser tool bar
+	=> click on Selenium IDE icon inorder to open selenium IDE
+
+
+
+Create Project in IDE:-->
+		
+	=> Open Selenium IDE from Tool Bar
+	=> At IDE Window Click on Create New project Link
+	=> Enter project Name and click on Finish
+
+
+Record A New Test:-->
+		
+		PrCondition:-->  Analyse the steps to record it 
+
+		=> Click On Record Button [By Default it is turned off /Press
+				button to turn it on]
+		=> Enter Site url and click on start recording
+		=> IDE it self open recorded window
+		=> Perform mouse and keyboard interaction at webpage
+			according to your testcase
+		=> After Completed Recording steps press Stop Recording Button
+		=> It Ask to enter Testcasename
+		=> Click on Save Project button
+		=> Enter Project extension as .side 
+
+
+
+Assertions in IDE:-->
+		=> Assertions are validation commands it verify expected
+			behaviour available at webpage.
+
+		Types of Assertions in IDE:-->
+				Assert
+				Verify
+				Waitfor
+
+
+		How to Apply asserts in Selenium IDE:-->
+			
+			=> Turn on Selenium Recording option
+			=> And Right click on page or selected Element
+			=> Choose Assert options
+			=> Under assert select [Assert/verify/waitfor]
+			=> Select Required command to validate application behaviour
+
+			
+
+
+		Differences between assert and verify:-->
+			
+			=> Assert stop run on failure
+			=> verify continue run on failure, After reporting
+
+		Validation avaiable in Assert and Verify:-->
+
+			title   	--> It Verify Expected Title presented at webpage
+			text    	--> It verify expected text availablet at selected location
+			value   	--> It verify extped inputtext presented at editbox
+			Editable	--> It verify selected textox is at editable mode
+			notEditable	--> It verify selected textbox is at not editable position
+			Presented	--> It verify selected element presented at some where at webpage
+			Not Presented   --> It verify selected element not presented at webpage
+			Selected lable	--> It verify dropdown is poupulating selected label
+			Checked		--> It verify selected checkbox or radio button is Selected
+			Not Checked     --> It verify selected checkbox or radio button is not Selected 
+
+
+
+WaitCommands in IDE:-->
+
+These commands can manage dynamic time gaps during runtime.
+We can define explict timeout to wait expected behaviour found at webpage.
+
+
+watif for Visible      :--> Manage timeout until expected object visible at webpage
+wait for not Notvisble :--> Manage timeout until expected object hidden at webpage
+
+wait for text:-->  Manage timeout until expected text presented at location
+
+
+Store Commands:-->
+
+		
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
