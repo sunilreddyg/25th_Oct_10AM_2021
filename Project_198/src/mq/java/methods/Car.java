@@ -16,8 +16,9 @@ public class Car
 	{
 		System.out.println("Forward");
 	}
-	
-	public void Reverse()
+
+
+	void Reverse()
 	{
 		System.out.println("Reverse");
 	}
