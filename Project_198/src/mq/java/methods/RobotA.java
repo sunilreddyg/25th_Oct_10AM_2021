@@ -9,13 +9,15 @@ public class RobotA
 		System.out.println("Run Completed");
 	}
 	
-	
-	
-	
+	public void Testrun()
+	{
+		run();
+	}
 	
 
 	public static void main(String[] args)
 	{
+		
 		
 	}
 
