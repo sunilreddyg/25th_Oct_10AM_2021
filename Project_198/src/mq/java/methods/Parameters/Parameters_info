@@ -1,0 +1,12 @@
+
+Parameters and Arguments:-->
+
+	=> parameters are useful change content inside method with hard coding it
+	=> Parameters are useful to change of state of method.
+	
+Parameters are specified after the method name, inside the parentheses. 
+You can add as many parameters as you want, just separate them with a comma.
+
+
+
+

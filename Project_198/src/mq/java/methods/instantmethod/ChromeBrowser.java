@@ -28,8 +28,7 @@ public class ChromeBrowser
 	{
 		ChromeBrowser chrome=new ChromeBrowser();
 		chrome.login();
-		
-
+	
 	}
 
 }
