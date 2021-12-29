@@ -13,7 +13,6 @@ public class Example_link {
 		driver.get("http://instagram.com");
 		driver.manage().window().maximize();
 		
-		
 		driver.findElement(By.linkText("Locations")).click();
 		
 		Thread.sleep(2000);
