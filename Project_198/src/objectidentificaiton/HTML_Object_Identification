@@ -1,5 +1,6 @@
 Note:---> object identification in Webdriver
 
+
 	*   in selenium all components recognize objects using backend
 	     html source...
 	*   To find unique object properties we need to watch page html source
