@@ -17,7 +17,6 @@ public class Read_PlaceHolder_Value {
 		 * 			Then verify Email Textbox Contains Placeholder "Email address or phone number"
 		 */
 		
-		
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\\\MINDQ\\\\Desktop\\\\new_drivers\\chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://facebook.com");
