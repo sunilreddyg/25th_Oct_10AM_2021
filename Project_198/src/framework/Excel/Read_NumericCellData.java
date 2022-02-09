@@ -6,9 +6,11 @@ import org.apache.poi.ss.util.NumberToTextConverter;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
-public class Read_NumericCellData {
+public class Read_NumericCellData 
+{
 
-	public static void main(String[] args) throws Exception {
+	public static void main(String[] args) throws Exception 
+	{
 		
 		//Target file location
 		FileInputStream fi=new FileInputStream("TestData\\InputData.xlsx");
