@@ -17,8 +17,8 @@ public class TestDriven
 	static XSSFWorkbook book;
 	static XSSFSheet sht;
 	static String filepath="TestData\\InputData.xlsx";
-	static String driver_path="C:\\Users\\MINDQ\\Desktop\\new_drivers\\chromedriver.exe";
-	static String sheetname="testdata";
+	static String driver_path="C:\\Users\\MINDQ\\Desktop\\recent_drivers\\chromedriver.exe";
+	static String sheetname="Testcase1";
 	static Outlook_LoginPage login;
 	
 	@BeforeClass
@@ -45,7 +45,7 @@ public class TestDriven
 		Thread.sleep(5000);
 		driver.close();
 		
-		FileOutputStream fo=new FileOutputStream("TestData\\output.xlsx");
+		FileOutputStream fo=new FileOutputStream("TestData\\output1.xlsx");
 		book.write(fo);
 		book.close();
 	}
