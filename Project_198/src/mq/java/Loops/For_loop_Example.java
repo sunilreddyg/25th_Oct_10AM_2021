@@ -43,6 +43,8 @@ public class For_loop_Example {
 		System.out.println("total value is -->"+sum);
 		
 		
+		
+		
 
 	}
 
