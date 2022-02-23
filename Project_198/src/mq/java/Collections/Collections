@@ -91,12 +91,12 @@ Collections:-->
 					
 	=========================================================================
 	List:-->
- 					List is a  inorder collection of objects and accept
- 					duplicate values...
+ 				List is a  inorder collection of objects and accept
+ 				duplicate values...
  						
- 								1. Arraylist
- 								2. LinkedList
- 								3. Vector	
+ 						1. Arraylist
+ 						2. LinkedList
+ 						3. Vector	
  								
  			1. Arraylist:-->
  					in Arraylist retrieving is faster than
@@ -106,8 +106,8 @@ Collections:-->
  							
  							
  			2. LinktextList:-->
- 					in Linktextlist Insertion of data and removal to 
- 					data in faster than Arraylist..	
+ 					in Linktextlist Insertion of data and removal of 
+ 					data is faster than Arraylist..	
  					
  					LinkedList is better for manipulating data.			
  							
@@ -128,8 +128,8 @@ Collections:-->
 		 					HashMap allows one null key and multiple null values.
 		 					
 		 			HashTable:-->
-		 					HashMap is synchronized.
-		 					ashtable doesn't allow any null key or value.	
+		 					Hashtable is synchronized.
+		 					Hashtable doesn't allow any null key or value.	
 		 						
 ====================================================================
 		 						
